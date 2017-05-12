@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;magnet_search&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../my_app" />
+      <root url="file://$PROJECT_DIR$/../server_node" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../client_node" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/9fans.net" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../my_app" />
+      <root url="file://$PROJECT_DIR$/../server_node" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../client_node" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/9fans.net" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../magnet_searcher" />
+    </excluded>
+  </library>
+</component>

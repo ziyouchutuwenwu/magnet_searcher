@@ -1,0 +1,11 @@
+hash: e5afd564c25ab0311eff43522a43518ae829f9ed3fb69be42716c5d895a7c67a
+updated: 2017-05-12T12:56:22.627549027+08:00
+imports:
+- name: github.com/shiyanhui/dht
+  version: 29e5102b5d2a1f788237bfbb10bc09797f201c2c
+- name: github.com/ziyouchutuwenwu/objective_go
+  version: 17a3b3e77453256aac3e8d23857a4debd204eb35
+  subpackages:
+  - exception
+  - thread/basic_thread
+testImports: []
