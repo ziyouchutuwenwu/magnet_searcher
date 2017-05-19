@@ -5,6 +5,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Go SDK" level="project" />
-    <orderEntry type="library" name="GOPATH &lt;magnet_search&gt;" level="project" />
+    <orderEntry type="library" name="GOPATH &lt;magnet_searcher&gt;" level="project" />
   </component>
 </module>

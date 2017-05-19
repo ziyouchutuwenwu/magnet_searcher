@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="GOPATH &lt;magnet_search&gt;">
+  <library name="GOPATH &lt;magnet_searcher&gt;">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../.idea" />
       <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/qiniupkg.com" />
@@ -25,7 +25,7 @@
       <root url="file://$PROJECT_DIR$/../../../3rd_libs/src/gopkg.in" />
     </SOURCES>
     <excluded>
-      <root url="file://$PROJECT_DIR$/../magnet_searcher" />
+      <root url="file://$PROJECT_DIR$" />
     </excluded>
   </library>
 </component>

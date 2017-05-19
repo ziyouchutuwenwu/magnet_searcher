@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73b4f5b6-11df-43f9-be72-7295100ed8e5" name="Default" comment="" />
+    <list default="true" id="a23ac4f7-a63a-4771-84a7-d93402a929ed" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__magnet_search_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/bencode.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/bencode_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/bitmap.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/bitmap_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/blacklist.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/blacklist_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/container.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/container_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/dht.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/doc/screen-shot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/krpc.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/peerwire.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/routingtable.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/sample/getpeers/getpeers.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/sample/spider/spider.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/util.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/shiyanhui/dht/util_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_convert/data_convert.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_ext/dict_ext/dict_ext.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_ext/object_ext/object_ext.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_ext/slice_ext/slice_ext.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_ext/slice_ext/slice_ext_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_ext/slice_ext/slice_sort.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_ext/string_ext/string_ext.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_ext/string_ext/string_ext_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_type/array/array.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_type/array/array_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_type/dictionary/dictionary.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_type/dictionary/dictionary_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_type/object/object.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/data_foundation/data_type/object/object_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/debug/debug_print.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/dynamic_method/method.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/dynamic_method/method_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/exception/exception.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/exception/exception_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/file/file.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/file/file_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/fsm/fsm.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/fsm/fsm_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/network_extension/network_extension.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/network_extension/network_extension_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/remote_message/remote_message_client/remote_message_client.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/remote_message/remote_message_client/remote_message_client_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/remote_message/remote_message_server/remote_message_server.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/remote_message/remote_message_server/remote_message_server_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/thread/basic_thread/thread.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/thread/basic_thread/thread_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/thread/ithread.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/thread/msg_thread/thread.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/thread/thread_pool/thread_pool.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/thread/thread_pool/thread_pool_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/timer/basic_timer/timer.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/timer/basic_timer/timer_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/timer/msg_timer/timer.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/github.com/ziyouchutuwenwu/objective_go/timer/msg_timer/timer_test.go" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/magnet_searcher.iml" afterPath="$PROJECT_DIR$/.idea/magnet_searcher.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +76,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magnet_searcher/main.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="465">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="e#14#166#0" expanded="true" />
               </folding>
@@ -24,69 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="downloader.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../magnet_searcher/downloader/downloader.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#20#147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parser.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magnet_searcher/parser/parser.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="e#16#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="struct_info.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magnet_searcher/parser/struct_info.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="glide.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magnet_searcher/glide.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>m</find>
-      <find>my_a</find>
-      <find>my_ap</find>
-      <find>my_app</find>
-    </findStrings>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/glide.yaml" />
-        <option value="$PROJECT_DIR$/main.go" />
-        <option value="$PROJECT_DIR$/downloader/downloader.go" />
-        <option value="$PROJECT_DIR$/../magnet_searcher/downloader/downloader.go" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -95,10 +100,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
+    <option name="x" value="16" />
     <option name="y" value="23" />
     <option name="width" value="1372" />
     <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -128,52 +136,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnet_searcher" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnet_searcher" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnet_searcher" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnet_searcher" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnet_searcher" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magnet_searcher" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="link" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -197,78 +159,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="magnet_search" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <filePath value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
-      <module name="magnet_search" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="magnet_search" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="23" width="1372" height="805" extended-state="0" />
+    <frame x="16" y="23" width="1372" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3245997" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -284,56 +196,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../magnet_searcher/link/link.go">
+    <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../magnet_searcher/glide.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../magnet_searcher/parser/parser.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#16#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../magnet_searcher/parser/struct_info.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../magnet_searcher/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="465">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="e#14#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../magnet_searcher/downloader/downloader.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#20#147#0" expanded="true" />
           </folding>
         </state>
       </provider>
